@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Chedup Tamang
 
-<!--
-**Chedup1923/Chedup1923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+QA Trainee & Business Analyst · 🇧🇹 Bhutan
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 Trained at **SELISE Digital Platforms** — Pelsung Immersion Programme, Cohort 3
+- 🔍 Manual testing, test case writing & bug reporting
+- 📋 User stories, requirements gathering & Agile workflows
+- 🌱 Currently learning: Figma · Tools: Canva, GitHub, GitLab, MS Excel
+- 💬 Ask me about: QA testing & business analysis
+
+---
+
+### 📜 Certifications
+
+- 🏅 Business Analysis & Product Acceptance Analysis · SELISE (2026)
+- 🏅 Pelsung Immersion Programme — Cohort 3 · Bhutan (2026)
+- 🏅 Digital Literacy · IC3 GS6 Level 1
+
+---
+
+📫 chedup1923@gmail.com
