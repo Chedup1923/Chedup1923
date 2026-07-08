@@ -1,6 +1,4 @@
-# 👋 Hi, I'm Chedup Tamang
-
-QA Trainee & Business Analyst · Bhutan
+👋 Hi, I'm Chedup Tamang
 ---
 
 ### 🚀 About Me
